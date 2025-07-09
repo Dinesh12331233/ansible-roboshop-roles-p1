@@ -1,0 +1,14 @@
+- name: app setup will be done from here 
+  include_role: 
+    name: common 
+    tasks_from: app-setup   
+
+- name: nodejs setup will be done from here 
+  include_role:
+    name: common 
+    tasks_from: nodejs-setup 
+
+- name: systemd setup will be done from here 
+  include_role: 
+    name: common 
+    tasks_from: systemd-setup 
