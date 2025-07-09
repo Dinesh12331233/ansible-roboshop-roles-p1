@@ -1,4 +1,2 @@
 MYSQL_HOST: mysql.deepthi.tech 
-MYSQL_ROOT_USER: root 
-MYSQL_ROOT_PASSWORD: RoboShop@1 
 CART_HOST: cart.deepthi.tech 
