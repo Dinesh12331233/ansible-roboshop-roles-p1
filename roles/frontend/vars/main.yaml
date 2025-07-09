@@ -1,3 +1,4 @@
 CATALOGUE_HOST: catalogue.deepthi.tech 
 USER_HOST: user.deepthi.tech 
-CART_HOST: cart.deepthi.tech
+CART_HOST: cart.deepthi.tech 
+SHIPPING_HOST: shipping.deepthi.tech
