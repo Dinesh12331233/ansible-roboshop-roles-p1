@@ -1,4 +1,3 @@
-
 - name: app setup will be done from here 
   include_role:
     name: common 
@@ -12,4 +11,4 @@
 - name: systemd setup will be done from here 
   include_role: 
     name: common 
-    tasks_from: systemd-setup 
+    tasks_from: systemd-setup
